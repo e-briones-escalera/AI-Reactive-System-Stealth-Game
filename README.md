@@ -42,4 +42,4 @@ This repository contains:
 > **⚠️ Disclaimer:** This project is part of my technical portfolio. Code, assets, and design are not licensed for reuse or distribution.
 
 ## Contact
-If you'd like to know more or are interested in how this system was built, feel free to reach out via [LinkedIn](www.linkedin.com/in/e-briones-escalera).
+If you'd like to know more or are interested in how this system was built, feel free to reach out via [LinkedIn](www.linkedin.com/in/e-briones-escalera)
