@@ -9,20 +9,23 @@ This is a stealth-based horror game prototype developed entirely in Unreal Engin
 - Footsteps, branches, and other world elements are mapped to generate **noise values**.
 - The AI tracks noise over time and adjusts its behaviour (search, patrol, chase).
 
-## Blueprint Systems Breakdown
+## Blueprint System Breakdown
+Check the System Breakdown Document for more info.
 - Modular Blueprint architecture for character logic, audio triggers, and AI states.
 - Uses Unreal's **Enhanced Input System**.
 - Game mechanics implemented entirely without C++.
+  
+> **⚠️ Disclaimer:** This project is part of my technical portfolio. Code, assets, and design are not licensed for reuse or distribution.
 
 ## Audio Systems
-- Adaptive ambience based on player's proximity to zones.
+- Adaptive system based on player's actions and performance throughout the game.
 - Fully reactive environmental sounds.
-- Sound propagation simulation with Blueprint logic (no Wwise).
+- Sound propagation simulation with Blueprint logic.
 
-## Testing & QA Notes
-- Integrated debug tools to visualize hearing zones and noise generation.
-- Stress-tested edge cases: dead silence, baited movement, and interrupted pathing.
-- Logged AI decision tree steps to refine its reactivity.
+## QA & Debugging Approach
+- Debug tools to visualize hearing zones and player-generated noise.
+- Handled edge cases like dead silence, bait scenarios and interrupted paths.
+- Logged AI state transitions to better understand its decision-making flow.
 
 ## Tech & Tools Used
 - Unreal Engine 5
@@ -33,13 +36,13 @@ This is a stealth-based horror game prototype developed entirely in Unreal Engin
 ## Media
 > [Gameplay](https://www.9csound.com/game-audio)
 
-## Repository Notes
-This repository contains:
-- Blueprint screenshots and documentation
-- Debug tool demos
-- Level design diagrams
+## Extra Docs
+If you want to learn more about how this project was made, here are some additional documents included in this repo.
+- Bugs Checklist.
+- Dev Diary: Behind the Build.
+- System Breakdown (with diagrams).
 
-> **⚠️ Disclaimer:** This project is part of my technical portfolio. Code, assets, and design are not licensed for reuse or distribution.
+
 
 ## Contact
 If you'd like to know more or are interested in how this system was built, feel free to reach out via [LinkedIn](www.linkedin.com/in/e-briones-escalera)
