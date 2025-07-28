@@ -1,8 +1,8 @@
 # AI-Reactive-System-Stealth-Game
 
-This is a stealth-based horror game prototype developed entirely in Unreal Engine 5 using Blueprints, focusing on immersive environmental audio and real-time audio feedback. This solo project explores AI used in videogames, how to program it, implement it, as well as using adaptive audio systems, and player-driven interaction for storytelling support.
+This is a stealth-based horror game prototype developed entirely in Unreal Engine 5 using Blueprints, designed to explore AI for videogames, and to showcase my game developing, debugging, and QA awareness inside game engines abilities. This solo project focuses on providing an immersive gameplay with an unpredictable enemy, as well as exploring AI used in videogames, how to program it, implement it, as well as using real-time adaptive systems, and player-driven interaction for storytelling support. 
 
-> 🧠 Technical case study designed to explore AI for videogames, and to showcase my game developing, debugging, and QA awareness inside game engines abilities.
+> **🛠️ Note:** This project is still in progress. What you're seeing here reflects my most recent work. I'm actively updating the repository as I continue building and debugging it, so feel free to check back often for the latest improvements!
 
 ## AI System Highlights
 - Custom AI that responds to **audio cues** and **player actions**.
@@ -31,7 +31,7 @@ Check the System Breakdown Document for more info.
 - Unreal Engine 5
 - Blueprints
 - Pro Tools
-- Wwise
+- Fmod
 
 ## Media
 > [Gameplay](https://www.9csound.com/game-audio)
@@ -41,8 +41,6 @@ If you want to learn more about how this project was made, here are some additio
 - Bugs Checklist.
 - Dev Diary: Behind the Build.
 - System Breakdown (with diagrams).
-
-
 
 ## Contact
 If you'd like to know more or are interested in how this system was built, feel free to reach out via [LinkedIn](www.linkedin.com/in/e-briones-escalera)
