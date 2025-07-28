@@ -43,4 +43,4 @@ If you want to learn more about how this project was made, here are some additio
 - System Breakdown (with diagrams).
 
 ## Contact
-If you'd like to know more or are interested in how this system was built, feel free to reach out via [LinkedIn](www.linkedin.com/in/e-briones-escalera)
+If you'd like to know more or are interested in how this system was built, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/e-briones-escalera)
