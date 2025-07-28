@@ -42,5 +42,8 @@ If you want to learn more about how this project was made, here are some additio
 - Dev Diary: Behind the Build.
 - System Breakdown (with diagrams).
 
+## Credits
+Credits to [Blink](https://www.fab.com/sellers/Blink)! I bought their awesome stylized bear in FAB.
+
 ## Contact
 If you'd like to know more or are interested in how this system was built, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/e-briones-escalera)
