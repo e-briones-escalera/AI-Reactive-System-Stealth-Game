@@ -19,7 +19,7 @@ Some parts were frustrating—like realizing my entire AI system needed to be re
 ## Personal Takeaways
 This project taught me that shipping something,even if it's not perfect **yet**, is more valuable than waiting until everything feels "ready". I pushed myself out of my comfort zone technically and creatively, especially with things I used to avoid.
 
-I also learned to work with limitations—both technical (like performance drops) and personal (time pressure or lack of experience in some systems). What surprised me the most was how much I actually enjoyed the problem-solving side of things. I realized that game development isn't about avoiding problems, it’s about being curious and persistent enough to solve them.
+I also learned to work with limitations, both technical (like performance drops) and personal (time pressure or lack of experience in some systems). What surprised me the most was how much I actually enjoyed the problem-solving side of things. I realized that game development isn't about avoiding problems, it’s about being curious and persistent enough to solve them.
 
 ## Resources
 Top 3 resources that helped me to figure this out and be able to create this project. I hope you find them useful! Please feel free to reach out if you have any question or just want to talk more about it.
