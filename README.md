@@ -1,7 +1,7 @@
 # AI-Reactive-System-Stealth-Game
 
 This is a stealth-based horror game prototype developed entirely in Unreal Engine 5 using Blueprints, designed to explore AI for videogames, and to showcase my game developing, debugging, and QA awareness inside game engines abilities. This solo project focuses on providing an immersive gameplay with an unpredictable enemy, as well as exploring AI used in videogames, how to program it, implement it, as well as using real-time adaptive systems, and player-driven interaction for storytelling support. 
-> [Watch Latest Update Here!](https://youtu.be/dHJJ1FeHqrw)
+> [Watch Latest Update Here! (June-July)](https://youtu.be/dHJJ1FeHqrw)
 
 > **🛠️ Note:** This project is still in progress. What you're seeing here reflects my most recent work. I'm actively updating the repository as I continue building and debugging it, so feel free to check back often for the latest improvements!
 
